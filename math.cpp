@@ -1,4 +1,5 @@
 #include <iostream>
+// cmath with math syntax
 using namespace std;
 
 int main(){
